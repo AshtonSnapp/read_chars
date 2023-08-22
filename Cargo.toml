@@ -1,0 +1,10 @@
+[package]
+name = "read_chars"
+version = "0.1.0"
+authors = ["Ashton Snapp <ashton@ashtonsnapp.com>"]
+edition = "2021"
+description = "An iterator over characters read from some I/O source."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
